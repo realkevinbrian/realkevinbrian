@@ -15,7 +15,7 @@
   
 📬 I am a part of different communities, like- Microsoft Learn Student Ambassadors, Google Crowdsource, Google developers group.
   
-✨ I have started technical blogging recently, read my first blog here: https://bit.ly/3uveom1
+✨ I have started technical blogging recently, read my first blog here: https://realkevinbrian.hashnode.dev/
   
   
   ### My skills:
@@ -44,14 +44,14 @@
   
   ### Statistics and Languages:
   
-  ![Aindrila's GitHub stats](https://github-readme-stats.vercel.app/api?username=aindrila2412&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aindrila2412&layout=compact&&theme=radical)](https://github.com/aindrila2412/github-readme-stats)
+  ![Aindrila's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkevinbrian&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realkevinbrian&layout=compact&&theme=radical)](https://github.com/realkevinbrian/github-readme-stats)
 
 
   
   ### Connect with me:
   
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AindrilaDas11?style=social"> <br>
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/realkevinbrian?style=social"> <br>
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faindrila-das24%2F">
  
   
